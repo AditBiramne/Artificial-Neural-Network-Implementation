@@ -156,4 +156,4 @@ pip install numpy pandas scikit-learn tensorflow matplotlib
 🎯 Use Case
 
 This project shows how deep learning can solve real-world classification problems using minimal code and open-source tools — a great starting point for any ML enthusiast.
-```
+
