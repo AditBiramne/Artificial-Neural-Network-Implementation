@@ -1,4 +1,3 @@
-```bash
 # 🌸 Artificial Neural Network (ANN) Implementation – Iris Flower Classification
 
 This project demonstrates how to build a **multi-layer Artificial Neural Network (ANN)** using **Keras (TensorFlow backend)** to classify **iris flowers** based on their physical features.
